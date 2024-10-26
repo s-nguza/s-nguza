@@ -1,5 +1,6 @@
 Hi there! 👋
-I'm [Your Name] – a motivated WeThinkCode_ student with a solid foundation in programming, currently exploring Systems Integration and diving into the exciting world of cybersecurity!
+I'm Siyabonga Nguza – a motivated WeThinkCode_ student with a solid foundation in programming, 
+currently exploring Systems Integration and diving into the exciting world of cybersecurity!
 
 🧑‍💻 About Me
 🎓 Studying at WeThinkCode_, currently focused on Systems Integration this elective
