@@ -1,10 +1,10 @@
-HI THERE! 👋
+### HI THERE! 👋
 
 
 I'm Siyabonga Nguza – a motivated WeThinkCode_ student with a solid foundation in programming, 
 currently exploring Systems Integration and diving into the exciting world of cybersecurity!
 
-🧑‍💻 About Me
+### 🧑‍💻About Me
 
 🎓 Studying at WeThinkCode_, currently focused on Systems Integration this elective
 
@@ -28,14 +28,13 @@ Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Javalin](https://img.shields.io/badge/Javalin-007396?style=for-the-badge&logo=java&logoColor=white)
 
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
-
-Skills: System design, OOP principles, API integration, network protocols, cybersecurity basics
 🌐 Find Me Around the Web
-LinkedIn: Your LinkedIn Profile
-Twitter: Your Twitter Profile
+## LinkedIn:  www.linkedin.com/in/siyabonga-nguza-630434283
