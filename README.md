@@ -1,4 +1,6 @@
-Hi there! 👋
+HI THERE! 👋
+
+
 I'm Siyabonga Nguza – a motivated WeThinkCode_ student with a solid foundation in programming, 
 currently exploring Systems Integration and diving into the exciting world of cybersecurity!
 
@@ -12,9 +14,14 @@ currently exploring Systems Integration and diving into the exciting world of cy
 
 💡 Passionate about solving complex problems and building secure, real-world solutions
 
-🚀 Tech Stack
-Languages: Python, Java, [add any others you use]
-Frameworks and Tools: Spring Boot, REST APIs, Docker, Git, [add any others you use]
+### 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 Skills: System design, OOP principles, API integration, network protocols, cybersecurity basics
 🌐 Find Me Around the Web
 LinkedIn: Your LinkedIn Profile
